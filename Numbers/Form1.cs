@@ -46,7 +46,7 @@ namespace Numbers
             {
                 MessageBox.Show(st + " is not an integer");
             }
-            string st = "3.2";
+            string s2 = "3.2";
             try
             {
                 int i2 = int.Parse(s2);
