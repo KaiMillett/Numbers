@@ -46,7 +46,6 @@ namespace Numbers
             {
                 MessageBox.Show(st + " is not an integer");
             }
-
             string st = "3.2";
             try
             {
@@ -57,7 +56,6 @@ namespace Numbers
                 MessageBox.Show(s2 + " is not an integer");
                 int i2 = 0;
             }
-
             string s3 = "pi";
             try
             {
